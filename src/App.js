@@ -7,11 +7,13 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <center>Ankit</center>
+        <center>React JS</center>
         </header>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <footer> The footer of React JS </footer>
       </div>
     );
   }
